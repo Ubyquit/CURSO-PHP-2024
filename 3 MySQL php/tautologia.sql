@@ -1,0 +1,1 @@
+SELECT username FROM accounts WHERE username='pikachu' or 1=1 -- and pass='Holamundo';
